@@ -1,4 +1,15 @@
 //Esto es una prueba
+// git status muestra el estatus del repositorio, si se han echo cambios
+
 // el git pull origin master te trae los archivos modificados del repositorio
+
 // git log --oneline muestra si te faltan por bajar commits 
-//
+
+/*PASOS PARA REALIZAR UN COMMIT
+    git add (nombre y extencion del archivo, esto solo sube el archivo seleccionado)
+    git add . (sube todo el proyecto)
+    git commit -m "Comentario" (ESTO ES MUY IMPORTANTE YA QUE ES EL COMENTARIO QUE SIEMPRE DEBE DE IR, 
+    SI O SI DEBEN DE LLEVAR COMENTARIIOS LOS COMMIT)
+    git push origin master o main (esto envia los cambios al repositorio)
+
+*/
