@@ -52,8 +52,17 @@ isStudent = false
 
 // 7. A continuación, modifica los valores de las variables por otros de distinto tipo
 
+Myname = 30
+Age = ("Ulises Ramirez")
+
 // 8. Declara constantes con valores asociados a todos los tipos de datos primitivos
 
+const  Name = ("Luis")
+const Edad = 30
+
+
 // 9. A continuación, modifica los valores de las constantes
+
+/*LAS CONSTANTES NO SE PUEDEN MODIFICAR YA QUE SON UNICAS*/
 
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarse
