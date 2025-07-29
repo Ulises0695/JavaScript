@@ -1,5 +1,4 @@
-// 1. Escribe un comentario en una línea
-//Esto es una prueba 2
+
 // git status muestra el estatus del repositorio, si se han echo cambios
 
 // el git pull origin master te trae los archivos modificados del repositorio
@@ -49,6 +48,13 @@ Myname = "Luis"
 Age = 31
 isStudent = false
 
+// 7. A continuación, modifica los valores de las variables por otros de distinto tipo
+
+// 8. Declara constantes con valores asociados a todos los tipos de datos primitivos
+
+// 9. A continuación, modifica los valores de las constantes
+
+=======
 
 // 7. A continuación, modifica los valores de las variables por otros de distinto tipo
 

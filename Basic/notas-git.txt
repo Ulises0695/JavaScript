@@ -12,6 +12,7 @@
     SI O SI DEBEN DE LLEVAR COMENTARIIOS LOS COMMIT)
     git push origin master o main (esto envia los cambios al repositorio)
 
+
     PASOS PARA REALIZAR UN COMMIT (si eres un colaborador)
 
     IMPORTANTE: No podras modificar la rama de master o main, debes de crear una rama y desde ahi pudes hacer los commits
@@ -21,6 +22,8 @@
     git commit -m "Comentario" (ESTO ES MUY IMPORTANTE YA QUE ES EL COMENTARIO QUE SIEMPRE DEBE DE IR, 
     SI O SI DEBEN DE LLEVAR COMENTARIIOS LOS COMMIT)
     git push origin  (esto envia los cambios al repositorio)
+
+=======
 
 */
 
