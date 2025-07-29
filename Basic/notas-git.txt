@@ -13,3 +13,14 @@
     git push origin master o main (esto envia los cambios al repositorio)
 
 */
+
+// Ramas 
+
+creacion de ramas 
+    git branch (nombre de la rama)
+renombrar rama
+    git branch -m (nombre nuevo de la rama)
+consultar ramas
+    git branch
+cambio de ramas
+    git chechout (nombre de la rama)
