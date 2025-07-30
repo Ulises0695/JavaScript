@@ -4,11 +4,26 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=6458
 */
 
 // 1. Crea una variable para cada operación aritmética
+let a = 1
+let b = 2
+let c = 3
+let d = 4
+let e = 5
+let f = 6
 
 // 2. Crea una variable para cada tipo de operación de asignación,
 //    que haga uso de las variables utilizadas para las operaciones aritméticas
+let myVariable = 3
+
+myVariable += 3
+myVariable -= 3
+myVariable *= 3
+myVariable /= 3
+myVariable %= 3
+myVariable **= 3
 
 // 3. Imprime 5 comparaciones verdaderas con diferentes operadores de comparación
+
 
 // 4. Imprime 5 comparaciones falsas con diferentes operadores de comparación
 
