@@ -54,7 +54,7 @@ isStudent = false
 
 // 9. A continuación, modifica los valores de las constantes
 
-=======
+
 
 // 7. A continuación, modifica los valores de las variables por otros de distinto tipo
 
