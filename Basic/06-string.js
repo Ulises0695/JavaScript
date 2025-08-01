@@ -22,7 +22,13 @@ console.log(greeting.includes("Ulises"))
 console.log(greeting.slice(0, 8)) // Muestra hasta el rango de caracteres que indicamos con numeros
 console.log(greeting.replace("Ulises", "Luis")) // reemplaza la palabra que le indicamos por otra, la reescribe
 
-// Template literals (plantillas literales) para sacar acento invertido es alt + 94
+// Template literals (plantillas literales) y crea un salto de linea
 
-/*let menssage =  ´Hola, este es mi
-curso de JavaScript faltan los acentos invertidos*/
+let menssage =  `Hola, este es mi
+curso de JavaScript`
+
+console.log(menssage)
+
+let email = "ulisesutsem@gmail.com"
+console.log(`Hola, ${myName}! Tu email es ${email}.`) //interpolacion para interpolar es necesario lo siguiente console.log(`Hola, ${myname}!`)
+
