@@ -6,10 +6,31 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=8652
 // if/else/else if/ternaria
 
 // 1. Imprime por consola tu nombre si una variable toma su valor
+let nombre = 30
+
+if (nombre == 30){
+    console.log("Ulises Ramirez")
+}
 
 // 2. Imprime por consola un mensaje si el usuario y contraseña concide con unos establecidos
+let password = 12345678
+
+if (password == 123456789){
+    console.log("Contraseña valida")
+} else {
+    console.log("Credenciales incorrectas")
+}
 
 // 3. Verifica si un número es positivo, negativo o cero e imprime un mensaje
+let numero = -1
+
+if (numero > 0){
+    console.log("Positivo")
+} else if(numero == 0){
+    console.log("Es igual a 0")
+} else if(numero < 0){
+    console.log("Es negativo")
+}
 
 // 4. Verifica si una persona puede votar o no (mayor o igual a 18) e indica cuántos años le faltan
 
