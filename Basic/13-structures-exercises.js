@@ -2,7 +2,7 @@
 Clase 28 - Ejercicios: Estructuras
 Vídeo: https://youtu.be/1glVfFxj8a4?t=11451
 */
-
+ 
 // 1. Crea un array que almacene cinco animales
 
 // 2. Añade dos más. Uno al principio y otro al final
