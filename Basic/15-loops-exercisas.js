@@ -21,14 +21,35 @@ for (let Sum = 1; Sum <= 100; Sum++){   // el bucle empieza en 1 y se repite has
 console.log(`Sumatoria: ${Resultado}`)
 
 // 3. Crea un bucle que imprima todos los números pares entre 1 y 50
-/*let par
+let par
 for (let Sum = 1; Sum < 51; Sum++){
-    par = Sum + Sum
-    console.log(`Sumatoria: ${par}`)
-}*/
+
+        if (Sum % 2 === 0){ // verifica si el resto de dividir Sum entre 2 es cero (número par). Si es par, se imprime.
+
+            console.log(`Sumatoria: ${Sum}`)
+    }
+}
 // 4. Dado un array de nombres, usa un bucle para imprimir cada nombre en la consola
+let nombres = ["Jose Luis", "Salvador Leonel", "Concepcion Avila", "Luis Ulises"]
+/*nombres[0] = "Jose Luis"
+nombres[1] = "Salvador Leonel"
+nombres[2] = "Concepcion Avila"
+nombres[3] = "Luis Ulises"*/
+
+for (let valor of nombres){
+    console.log(valor)
+}
 
 // 5. Escribe un bucle que cuente el número de vocales en una cadena de texto
+const string = "Luis Ulises Ramirez Avila"
+let contador = 0
+
+while (contador < string.length){
+    if (string.includes(texto[contador])){
+        contador ++
+    }
+
+}
 
 // 6. Dado un array de números, usa un bucle para multiplicar todos los números y mostrar el producto
 
