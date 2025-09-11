@@ -86,3 +86,25 @@ extern()
 }
 
 applyFunc(myFunc4("Funcion de orden superior"))*/
+
+// forEach
+
+const myArray = [1, 2, 3, 4]
+
+const mySet = new Set(["Luis", "Ulises", "Patotas", 30, true, "ulisesutsem@gmail.com"])
+
+const myMap = new Map([
+    ["name", "Luis"],
+    ["email", "ulisesutsem@gmail.com"],
+    ["age", 30]
+])
+
+myArray.forEach(function (value) {
+    console.log(value)
+})
+
+myArray.forEach((value) => console.log(value))
+
+mySet.forEach((value) => console.log(value))
+
+myMap.forEach((value) => console.log(value))
